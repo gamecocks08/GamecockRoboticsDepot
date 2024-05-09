@@ -2,7 +2,7 @@
     {
         "metadata": {
             "output": "bin/output.bin",
-            "location": "https://gamecocks08.github.io/GamecockRoboticsDepot/cockrobotics@0.1.0.zip"
+            "location": "https://gamecocks08.github.io/GamecockRoboticsDepot/templates/cockrobotics@0.1.0.zip"
         },
         "name": "cockrobotics",
         "py/object": "pros.conductor.templates.base_template.BaseTemplate",
