@@ -6,7 +6,7 @@
         },
         "name": "cockrobotics",
         "py/object": "pros.conductor.templates.base_template.BaseTemplate",
-        "supported_kernels": ">=3.8.0",
+        "supported_kernels": ">=4.0.0",
         "target": "v5",
         "version": "0.1.0"
     }
