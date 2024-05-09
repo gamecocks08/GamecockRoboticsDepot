@@ -1,0 +1,13 @@
+[
+    {
+        "metadata": {
+            "output": "bin/output.bin",
+            "location": "https://gamecocks08.github.io/GamecockRoboticsDepot/cockrobotics@0.1.0.zip"
+        },
+        "name": "cockrobotics",
+        "py/object": "pros.conductor.templates.base_template.BaseTemplate",
+        "supported_kernels": ">=3.8.0",
+        "target": "v5",
+        "version": "0.1.0"
+    }
+]
